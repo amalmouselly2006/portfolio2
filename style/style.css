@@ -749,7 +749,7 @@ body {
 }
 
 .tryit .box .back .rating ul li i {
-    color: gold;
+    color: #ff9800;
     font-size: 15px;
 }
 
@@ -820,7 +820,7 @@ body {
 }
 
 .tryit .box ul li {
-    color: gold;
+    color: rgb(43, 43, 41);
 }
 
 .tryit .box p {
